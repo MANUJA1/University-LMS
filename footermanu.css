@@ -1,0 +1,37 @@
+
+#imege1{ 
+     display:inline;
+    margin: 0 auto;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#imege1:hover{
+-webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+.access a{
+	text-decoration:none;
+	color:black;
+}
+
+.access a:hover{
+	text-decoration:none;
+	color:blue;
+	position:relative;
+	left:2px;
+}
+
+
+.acces a{
+	text-decoration:none;
+	color:black;
+}
+
+.acces a:hover{
+	text-decoration:none;
+	color:gray;
+	position:relative;
+	left:2px;
+}
